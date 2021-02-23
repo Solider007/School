@@ -1,2 +1,2 @@
 # School
-Class files, notes in TKU
+Just some school's files and notes,maybe some quiz questions.
